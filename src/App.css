@@ -1,0 +1,32 @@
+body{
+  margin: 0;
+  background-color: blue;
+  background-image: url('https://image.shutterstock.com/z/stock-photo-weather-map-d-rendering-1123177739.jpg');
+
+}
+
+.info h2,p{
+ text-align: center;
+  color:red;
+  font-size: 40px;
+}
+
+
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form button{
+ cursor: pointer;
+}
+
+.form button:hover{
+  
+}
+
+
+ 
+  
+
